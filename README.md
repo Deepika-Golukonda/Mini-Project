@@ -19,6 +19,14 @@ Python functions
 
 Lists and dictionaries
 
+
+
+
+Author
+
+Deepika
+Python Developer (Beginner) | Preparing for Google Summer of Code
+
 Data iteration and searching
 
 Control flow (loops and conditions)
